@@ -1,0 +1,24 @@
+{
+  "LOGINS": [
+    {
+      "username": "Dave",
+      "pw_hash": "sr03niRnYz88RlXp+YxIBcmUTxdmys6/5C2mUgEvfc98e7c06e219ebeafbf88449bfc6e59002deacdb1e2b80d2fbefe366a22f197",
+      "access_level": "2"
+    },
+    {
+      "username": "Aria",
+      "pw_hash": "Mb0+IKB6nNSs+bIi4rCKMLQWjJQDsuYwsxVC8qIkf1c7dde977c600ace5cad28a8a8f054a9591a40df834674cbf8c060742ea6b28",
+      "access_level": "3"
+    },
+    {
+      "username": "David",
+      "pw_hash": "QhZeqoyAzfC07sH42XGDB2FdeNm01KlamWZlNv9Vd5386d568d405c24fc4c0b65ff1a1c747ad8b650fa85846a84af1286b816c732",
+      "access_level": "1"
+    },
+    {
+      "username": "Jane",
+      "pw_hash": "7RrAXi9yfb0Z/qWBgByy4qFk8qBLTT6tdWKFdZXM01234568c0445d2635ff689ec3056a562bf29fc4f2d7e4d99f8bdd1162dcf66c",
+      "access_level": "2"
+    }
+  ]
+}
