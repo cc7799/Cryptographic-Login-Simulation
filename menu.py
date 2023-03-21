@@ -28,9 +28,7 @@ def menu():
 
     # Login
     if user_input == 1:
-        login_results = login()
-        valid_login = login_results[0]
-        access_level = login_results[1]
+        valid_login, access_level = login()
 
     # Sign up
     else:
