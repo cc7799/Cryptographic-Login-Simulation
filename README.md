@@ -1,14 +1,15 @@
-# Connor Constantino<br>UVM Cybersecurity Principles (CS166 / CS2660) Final Project
-This project was created as a final project for the Cybersecurity Principles class I took while a student at UVM.
+# Cryptographically Secure Login Simulation
+A text-based simulation of a cryptographically secure login system.
 
-## Setup and Operation
-No setup is required. All modules are from the Python standard library.
+This project was created as a final project for the Cybersecurity Principles (CS 2660) class I took while a student at UVM.
 
-The program is run by running the menu.py module. When you run the module for the first time,
-a credentials database will be created with the default values stored in logins.json. 
+## Table of Contents
+* [Description](#description)
+* [Installation & Setup](#installation--setup)
+* [Operation](#operation)
 
-## Description and Features
-This project is a text-based simulation of a cryptographically secure login system. It supports multiple users as 
+## Description
+This program simulates the login page of a company website. It supports multiple users as 
 well as the ability to add new users. Passwords are salted and hashed before being stored and are subjected to the
 following requirements:
 <ul>
@@ -24,6 +25,13 @@ following requirements:
 </ul>
 When creating a new user, passwords can be manually entered or automatically generated. Each user has an access level
 which determines which departments they are able to access.
+
+## Installation & Setup
+No setup is required. All modules are from the Python standard library.
+
+## Operation
+The program is run by running the menu.py module. When you run the module for the first time,
+a credentials database will be created with the default values stored in logins.json.
 
 <hr>
 The following sets of usernames, passwords, and access levels are built in as defaults and can be used to test.
